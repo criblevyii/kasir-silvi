@@ -30,7 +30,3 @@ Aplikasi ini dibuat dengan:
 * Taruh project ini di htdocs
 
 ## Screenshot
-
-![Dashboard](https://i.ibb.co/3vV25Gv/dashboard.png)
-![Transaksi](https://i.ibb.co/25jpLqL/transaksi.png)
-![Stok](https://i.ibb.co/f4XF8MN/stok.png)
