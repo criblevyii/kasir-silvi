@@ -1,5 +1,6 @@
 # Kasir App
-Aplikasi Kasir Penjualan Menggunakan Codeigniter Bootstrap Adminlte
+Aplikasi ini merupakan project uji kompetensi program keahlian Rekayasa Perangkat Lunak tahun 2023/2024
+Aplikasi Kasir Penjualan ini Menggunakan Codeigniter Bootstrap Adminlte
 
 Aplikasi ini dibuat dengan:
 * **Codeigniter 3**
@@ -22,8 +23,12 @@ Aplikasi ini dibuat dengan:
 * Pengaturan (Khusus Admin)
 * Pengguna (Khusus Admin)
 
-## Instalasi
-
+## Download dan Instalasi
+* Jalankan CMD/Terminal
+* Masuk ke Drive D: atau yang lain jika di linux
+* Jalankan perintah:
+  <code>
+	git clone 
 * Clone repositori ini
 * Buat database dengan nama **kasir**
 * Import file kasir.sql
