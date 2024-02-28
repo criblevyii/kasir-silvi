@@ -28,7 +28,8 @@ Aplikasi ini dibuat dengan:
 * Masuk ke Drive D: atau yang lain jika di linux
 * Jalankan perintah:
   <code>
-	git clone 
+	git clone https://github.com/criblevyii/kasir-silvi.git
+  </code>
 * Clone repositori ini
 * Buat database dengan nama **kasir**
 * Import file kasir.sql
