@@ -23,13 +23,8 @@ Aplikasi ini dibuat dengan:
 * Pengaturan (Khusus Admin)
 * Pengguna (Khusus Admin)
 
-## Download dan Instalasi
-* Jalankan CMD/Terminal
-* Masuk ke Drive D: atau yang lain jika di linux
-* Jalankan perintah:
-  <code>
-	git clone https://github.com/criblevyii/kasir-silvi.git
-  </code>
+## Instalasi
+
 * Clone repositori ini
 * Buat database dengan nama **kasir**
 * Import file kasir.sql
