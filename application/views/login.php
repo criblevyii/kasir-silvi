@@ -8,7 +8,7 @@
   <title>Login</title>
   <?php $this->load->view('partials/head'); ?>
 </head>
-<body class="hold-transition login-page">
+<body style="background-color:#b392ac" class="hold-transition login-page">
 
   <div class="login-box">
     <div class="login-logo">Login</div>
